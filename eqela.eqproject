@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# ModulePak
+#
+
+projectname: ModulePak
+vendorid: com.josh1234
+mainmodule: com.josh1234.modulepak
